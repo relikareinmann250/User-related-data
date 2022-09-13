@@ -18,9 +18,9 @@ Download our complete data set xxx
 |`voting`|Public and private topics that are in the phase of voting|
 |`followUp`|Public and private topics that are in the phase of following up ???|
 |`closed`|Public and private topics that have been finilized|
-|`activeGroups`|xxx|
-|`usersInGroups`|xxx|
-|`topicsInGroups`|xx|
+|`activeGroups`|Number of private groups present on the platform|
+|`usersInGroups`|Number of users in the private groups|
+|`topicsInGroups`|Number of topics |
 |`oneTimeUser`|User who comes to vote only once|
 |`votesCast`|xxx|
 |`%oneTimeUser`|Percentage of users who come only once in relation to the total user count|
