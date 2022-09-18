@@ -28,4 +28,4 @@ Download our complete data set xxx
 
 # License 
 This {DATA(BASE)-NAME} is made available under the Open Database License: https://opendatacommons.org/licenses/odbl/summary/. You have the permission to use, distribute, and reproduce these in any medium, provided the source and CitizenOS are credited.
-Please give the following citation: 
+Please give the following citation: https://github.com/relikareinmann250/User-related-data/blob/main/README.md
