@@ -25,6 +25,9 @@ Download our complete data set xxx
 |`votesCast`|xxx|
 |`%oneTimeUser`|Percentage of users who come only once in relation to the total user count|
 
+# Changelog
+Dataset updated on xxx to reflect the data from period xx
+
 
 # License 
 This {DATA(BASE)-NAME} is made available under the Open Database License: https://opendatacommons.org/licenses/odbl/summary/. You have the permission to use, distribute, and reproduce these in any medium, provided the source and CitizenOS are credited.
