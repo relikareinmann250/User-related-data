@@ -4,7 +4,7 @@ Our user related data is maintained by CitizenOS team. The data will be updated 
 Download our complete data set xxx
 
 # The data you find here and our data sources
-1. The data reflects changes in users and in the main content (topics, votes) for understanding user behaviour. 
+1. The data reflects changes in users and in the main content (topics, votes) for understanding user behaviour. Data is collected from the CitizenOS platform. 
 2. The script is triggered to run between 1am and 2am. 
 
 
