@@ -19,7 +19,7 @@ Download our complete data set xxx
 |`closed`|Public and private topics that have been finilized|
 |`activeGroups`|Number of private groups present on the platform|
 |`usersInGroups`|Number of users in the private groups|
-|`topicsInGroups`|Number of topics |
+|`topicsInGroups`|Number of topics in the private groups|
 |`oneTimeUser`|User who comes to vote only once|
 |`votesCast`|The number of ballots users have cast, using the analogy of a paper voting|
 |`%oneTimeUser`|Percentage of users who come only once in relation to the total user count|
