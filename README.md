@@ -1,6 +1,12 @@
 # User-related-data
 
-Our user related data is maintained by CitizenOS team. The data will be updated regularly on a monthly basis. 
+
+Citizen OS is a free and secure open source platform for citizen initiatives and collective decision-making.
+Our mission is to bring decision-making back to the people and their communities, through nurturing e-democracy and developing innovative technologies for higher quality collaborative decision-making.
+
+We are sharing aggregated and anonymised usage statistics related to different activities on our platform.
+
+The data shared here is maintained by CitizenOS team. The data will be updated regularly on a monthly basis. 
 Download our complete data set xxx
 
 # The data you find here and our data sources
