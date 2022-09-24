@@ -2,7 +2,7 @@
 
 
 Citizen OS is a free and secure open source platform for citizen initiatives and collective decision-making.
-Our mission is to bring decision-making back to the people and their communities, through nurturing e-democracy and developing innovative technologies for higher quality collaborative decision-making.
+The mission is to bring decision-making back to the people and their communities, through nurturing e-democracy and developing innovative technologies for higher quality collaborative decision-making.
 
 We are sharing aggregated and anonymised usage statistics related to different activities on our platform.
 
